@@ -1,5 +1,5 @@
-# Power-BI-Personal_Finance_Dashboard1
-Power BI Personal_Finance_Dashboard1
+# Power-BI-Personal_Finance_Analysis
+Power BI Personal_Finance_Analysis
 Executive Summary
 
 ![image](https://github.com/user-attachments/assets/51102658-521b-467e-b5e8-f2f9cf40e666)
